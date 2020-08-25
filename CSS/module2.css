@@ -139,7 +139,7 @@ div {display: inline-block;
 	 text-align: left;
 	 border: 2px solid black;
 	 margin-left: 20px;
-
+         float: left;
 
     }	
 
